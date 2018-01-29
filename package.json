@@ -31,7 +31,7 @@
   "homepage": "https://github.com/Scout-NU/js-base#readme",
   "dependencies": {
     "@nuscout/eslint-config": "^0.2.0",
-    "@nuscout/prettier-config": "^0.1.0",
+    "@nuscout/prettier-config": "^0.1.1",
     "eslint": "^4.16.0",
     "husky": "^0.14.3",
     "lint-staged": "^6.1.0",
