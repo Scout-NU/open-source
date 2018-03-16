@@ -1,5 +1,5 @@
 {
-  "name": "js-base",
+  "name": "open-source",
   "version": "0.1.0",
   "description": "Base configuration for a Scout JavaScript project",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Scout-NU/js-base.git"
+    "url": "https://github.com/Scout-NU/open-source.git"
   },
   "keywords": [
     "javascript",
@@ -26,9 +26,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Scout-NU/js-base/issues"
+    "url": "https://github.com/Scout-NU/open-source/issues"
   },
-  "homepage": "https://github.com/Scout-NU/js-base#readme",
+  "homepage": "https://github.com/Scout-NU/open-source#readme",
   "dependencies": {
     "@nuscout/eslint-config": "^0.2.0",
     "@nuscout/prettier-config": "^0.1.1",

@@ -1,12 +1,18 @@
-# js-base
+# Open Source
 
-This is the base project for any [Scout](https://github.com/Scout-NU) open source JavaScript project.
+This repository is the home for all [Scout](https://github.com/Scout-NU) open source projects. Dotfiles, contributors guides, and Scout's latest Code of Conduct can all be found here.
 
-Every JavaScript project at Scout should start by cloning this project. This will ensure all Scout projects have the same starting point as far as code style, code of conduct, contribution guides, and npm scripts.
+Every open source project at Scout should start by cloning this project. This will ensure all Scout projects have the same starting point as far as code style, code of conduct, contribution guides, and npm scripts.
 
-It's also important that the README follows the structure below. New sections can be added as necessary in between API and Maintainers, but everything here (except Background) should be kept. This will ensure all Scout projects are easy to pick up and use, and that documentation is both present and clear. Everything in this document before the Code of Conduct section should be updated. Everything after those can stay the same :)
+This file also serves as a template for every project's README. New sections can be added as necessary in between API and Maintainers, but everything here (except Background) should be kept. This will ensure all Scout projects are easy to pick up and use, and that documentation is both present and clear. Everything in this document before the Code of Conduct section should be updated. Everything after those can stay the same :)
 
-Any time you change this repo, you should PR all other repos with the changes. This ensures that all projects have the latest version of this project. In the future it's probably worth looking into making this a generator so projects can update all of their configs and docs by running an npm script.
+Any time you change this repo, you should PR all other repos with the changes. This ensures that all projects have the latest version of this project.
+
+When creating a new project, make sure to:
+
+* Find and replace all instances of `open-source` with the new project name.
+* Replace the contents of the Code of Conduct with a link to the official CoC in this repository.
+* Update the projects' maintainers if the Tech Director isn't maintaining the project
 
 ## Table of Contents
 
@@ -41,6 +47,7 @@ A full API doc. This can either be embedded in the README if it's short enough, 
 #### Adam Markon
 
 _Email_: [amarkon895@gmail.com](mailto:amarkon895@gmail.com)
+
 _Twitter_: [@amarkon88](https://twitter.com/amarkon88)
 
 ## Code of Conduct

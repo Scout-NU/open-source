@@ -1,5 +1,7 @@
 # Code of Conduct
 
+> For individual projects, link to the latest version of this file instead of retaining the complete Code of Conduct. This ensures any changes are always linked to the most up-to-date version of the CoC.
+
 ## When Something Happens
 
 If you see a Code of Conduct violation, follow these steps:
